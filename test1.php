@@ -2,5 +2,9 @@
                 use these tags'; 
 
                 echo "INI PERUBAHANKU";
+
+                echo "gasgasgasf";
+
+                echo "asdasdasd";
                 
 ?>
