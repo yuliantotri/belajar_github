@@ -3,5 +3,9 @@
 
                 echo "INI PERUBAHANKU";
                 echo "ALLLLL";
+
+                echo "gasgasgasf";
+
+                echo "asdasdasd";
                 
 ?>
