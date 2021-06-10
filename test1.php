@@ -2,5 +2,6 @@
                 use these tags'; 
 
                 echo "INI PERUBAHANKU";
+                echo "ALLLLL";
                 
 ?>
